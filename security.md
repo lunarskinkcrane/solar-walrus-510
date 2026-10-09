@@ -163,7 +163,7 @@ Yes — download again and repeat the steps.
 
 | **Build** | **Date** | **Notes** |
 | --- | --- | --- |
-| 2026.4 | 2026-10-08 | Latest stable, current release |
+| 2026.4 | 2026-10-09 | Latest stable, current release |
 | 2026.3 | earlier | Performance improvements |
 | 2026.2 | earlier | Bug fixes |
 | 2026.1 | earlier | First public build |
@@ -171,4 +171,4 @@ Yes — download again and repeat the steps.
 
 ---
 
-*solar-walrus-510 · Updated 2026-10-08 · Shared under the MIT License*
+*solar-walrus-510 · Updated 2026-10-09 · Shared under the MIT License*
